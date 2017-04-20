@@ -8,4 +8,4 @@ Currently, the Mobile Vision API includes face, barcode, and text detectors, whi
 
 https://developers.google.com/vision/introduction
 
-
+https://developers.google.com/vision/android/getting-started
